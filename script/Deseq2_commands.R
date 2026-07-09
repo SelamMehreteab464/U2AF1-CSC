@@ -29,7 +29,7 @@ plotPCA(csc_u2af1_illumina_vst, intgroup=c("condition", "batch"), returnData=TRU
 plotCounts(csc_u2af1_illumina_dds, gene='U2AF1', intgroup=c('condition', 'batch'), returnData=TRUE)
 
 #script to plot gene expression volcano plot
-LRTbatch_csc_u2af1_illumina_dds <- DESeq(csc_u2af1_illumina_dds, test="LRT", reduced=~batch)
+LRTbatch_csc_u2af1_illumina_dds <- DESeq(csc_u2af1_illumina_dds, test="Wald")
 
 u2af1_illumina_s34f_dmso_vs_u2af1_illumina_wt_dmso<- results(LRTbatch_csc_u2af1_illumina_dds, contrast=c("condition", "U2AF1_S34F_dmso", "U2AF1_WT_dmso"))
 
