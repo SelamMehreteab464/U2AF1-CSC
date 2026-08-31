@@ -1,0 +1,16 @@
+W1D2_S24	/smehrete/hisat_2_alignment_output/filtered_align_bam/W1D2_S24.hg38aligned.filtered.bam
+W1D3_S32	/smehrete/hisat_2_alignment_output/filtered_align_bam/W1D3_S32.hg38aligned.filtered.bam
+W1C2_S25	/smehrete/hisat_2_alignment_output/filtered_align_bam/W1C2_S25.hg38aligned.filtered.bam
+W1C3_S33	/smehrete/hisat_2_alignment_output/filtered_align_bam/W1C3_S33.hg38aligned.filtered.bam
+W2D2_S22	/smehrete/hisat_2_alignment_output/filtered_align_bam/W2D2_S22.hg38aligned.filtered.bam
+W2D3_S30	/smehrete/hisat_2_alignment_output/filtered_align_bam/W2D3_S30.hg38aligned.filtered.bam
+W2C2_S23	/smehrete/hisat_2_alignment_output/filtered_align_bam/W2C2_S23.hg38aligned.filtered.bam
+W2C3_S31	/smehrete/hisat_2_alignment_output/filtered_align_bam/W2C3_S31.hg38aligned.filtered.bam
+M1D2_S28	/smehrete/hisat_2_alignment_output/filtered_align_bam/M1D2_S28.hg38aligned.filtered.bam
+M1D3_S36	/smehrete/hisat_2_alignment_output/filtered_align_bam/M1D3_S36.hg38aligned.filtered.bam
+M1C2_S29	/smehrete/hisat_2_alignment_output/filtered_align_bam/M1C2_S29.hg38aligned.filtered.bam
+M1C3_S37	/smehrete/hisat_2_alignment_output/filtered_align_bam/M1C3_S37.hg38aligned.filtered.bam
+M2D2_S26	/smehrete/hisat_2_alignment_output/filtered_align_bam/M2D2_S26.hg38aligned.filtered.bam
+M2D3_S34	/smehrete/hisat_2_alignment_output/filtered_align_bam/M2D3_S34.hg38aligned.filtered.bam
+M2C2_S27	/smehrete/hisat_2_alignment_output/filtered_align_bam/M2C2_S27.hg38aligned.filtered.bam
+M2C3_S35	/smehrete/hisat_2_alignment_output/filtered_align_bam/M2C3_S35.hg38aligned.filtered.bam
