@@ -1,0 +1,2 @@
+feature_id	gene_id	ctrlW1D2_wt_b1_0	ctrlW1D3_wt_b1_1	ctrlW2D2_wt_b1_2	ctrlW2D3_wt_b1_3	W1C2_wtcsc_b1_4	W1C3_wtcsc_b1_5	W2C2_wtcsc_b1_6	W2C3_wtcsc_b1_7	lr	adj_pvalue
+e1B_BCL2L1	BCL2L1	0.131	0.131	0.131	0.131	0.066	0.066	0.066	0.066	7.41	0.0194
